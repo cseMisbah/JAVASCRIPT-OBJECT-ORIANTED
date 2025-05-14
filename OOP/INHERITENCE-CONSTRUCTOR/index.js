@@ -45,5 +45,5 @@ class Son extends Father {
 }
 //new Father();
 new Father("I am a father constructor");
-//new Son("");
+//new Son();
 new Son("I am a constructor of son");
